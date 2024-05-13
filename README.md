@@ -1,7 +1,9 @@
-👋 Hi!, I’m Isaac Nahum _(a.k.a. @syntacticnewman)_.
+### Hi! 👋
 
-- 👨🏻‍💻 I’m a software engineer.
-- 🖥️ I specialize in front-end development with React.js.
-- 🌱 I’m currently sharping my front-end skills learning new technologies and Design.
-- 🧩 I’m an advocate of Component-Driven Development.
-- 👨🏻‍🔬 I take Q&A seriously.
+I'm Nahum Ramírez, also known as **@syntacticnewman**, a software engineer 👨🏻‍💻 who:
+
+- 🖥️ Excels in front-end development using React.js.
+- 📚 Constantly enhance my technical skills and stay updated with the latest industry trends.
+- 🧩 Staunchly upholds design principles to ensure code readability, maintainability, and scalability.
+- 👨🏻‍🔬 Rigorously engages in Q&A and testing.
+- 🐈 Has a deep affection for kittens.
